@@ -6,4 +6,4 @@ const handler = async () => {
   };
 };
 
-module.export = { handler };
+module.exports = { handler };
