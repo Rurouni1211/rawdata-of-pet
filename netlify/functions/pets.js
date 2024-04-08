@@ -1,7 +1,7 @@
 const handler = async () => {
   return {
     statusCode: 200,
-    headers: { "Content-Type": "tex/plain" },
+    headers: { "Content-Type": "text/plain" },
     body: "ILTD",
   };
 };
